@@ -9,6 +9,13 @@
   
   ## Prerequisites
   * NodeJs installed in PC from [nodejs site](https://nodejs.org/en/download/)
+  * Git download (preferable) from [git](https://git-scm.com/downloads)
+  
+  ## Download Guidlines
+  If you don't have git installed in your then download manually as a zip file or you can use the command below to clone the project
+   ```
+   git clone https://github.com/tashfiq12/SCRAPING-MIST-WEBSITE-IMAGES.git
+  ```
   
   ## Installation Guides
   
