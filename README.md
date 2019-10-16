@@ -8,7 +8,7 @@
   * [Puppeteer library](https://developers.google.com/web/tools/puppeteer)
   
   ## Prerequisites
-  * NodeJs installed in PC from [nodejs site](https://nodejs.org/en/download/)
+  * NodeJs installed (must requirement) in PC from [nodejs site](https://nodejs.org/en/download/)
   * Git download (preferable) from [git](https://git-scm.com/downloads)
   
   ## Download Guidlines
