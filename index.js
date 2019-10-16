@@ -3,7 +3,7 @@ const URL = 'https://mist.ac.bd'; // you just need to change this  website addre
 const fs = require('fs');
 const request = require('request');
 const writeStream = fs.createWriteStream('Collected_Data.csv');
-writeStream.write(`Title,ImageUrl \n`);
+writeStream.write(`ImageCaption, ImageUrl \n`);
 writeStream.write(`\n\n`);
 
 var download = function(uri, filename, callback) {
